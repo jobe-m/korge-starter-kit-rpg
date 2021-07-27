@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.5" tiledversion="1.7.1" name="32x32_map_tile" tilewidth="32" tileheight="32" tilecount="667" columns="23">
- <image source="32x32_map_tile.png" width="736" height="928"/>
+<tileset version="1.5" tiledversion="1.7.1" name="32x32_map_tile" tilewidth="32" tileheight="32" spacing="2" margin="1" tilecount="667" columns="23">
+ <image source="32x32_map_tile.png" width="782" height="986"/>
  <tile id="23">
   <objectgroup draworder="index" id="2">
    <object id="1" type="collision" x="0" y="0" width="4" height="32"/>
